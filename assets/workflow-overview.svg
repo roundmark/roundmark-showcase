@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Roundmark client approval workflow</title>
+  <desc id="desc">Draft moves to review, changes requested, revision, a new review round, and approved.</desc>
+  <rect width="1200" height="260" fill="#faf9f6"/>
+  <text x="60" y="52" fill="#242321" font-family="Arial, sans-serif" font-size="26" font-weight="700">Client approval workflow</text>
+  <text x="60" y="82" fill="#68645d" font-family="Arial, sans-serif" font-size="16">Versioned review context, explicit decisions, and a recorded final sign-off.</text>
+  <g font-family="Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle">
+    <g fill="#fff" stroke="#c9c4bb" stroke-width="2">
+      <rect x="60" y="132" width="150" height="62" rx="10"/>
+      <rect x="260" y="132" width="150" height="62" rx="10"/>
+      <rect x="460" y="132" width="180" height="62" rx="10"/>
+      <rect x="690" y="132" width="150" height="62" rx="10"/>
+      <rect x="890" y="132" width="150" height="62" rx="10"/>
+      <rect x="1090" y="132" width="90" height="62" rx="10"/>
+    </g>
+    <g fill="#242321">
+      <text x="135" y="169">Draft</text>
+      <text x="335" y="169">Review</text>
+      <text x="550" y="160">Changes</text>
+      <text x="550" y="180">requested</text>
+      <text x="765" y="169">Revision</text>
+      <text x="965" y="169">Review</text>
+      <text x="1135" y="169">Approved</text>
+    </g>
+  </g>
+  <g fill="none" stroke="#9a6b35" stroke-width="3" stroke-linecap="round">
+    <path d="M215 163h35m-9-8 9 8-9 8"/>
+    <path d="M415 163h35m-9-8 9 8-9 8"/>
+    <path d="M645 163h35m-9-8 9 8-9 8"/>
+    <path d="M845 163h35m-9-8 9 8-9 8"/>
+    <path d="M1045 163h35m-9-8 9 8-9 8"/>
+  </g>
+</svg>
+
