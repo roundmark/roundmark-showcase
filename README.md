@@ -32,7 +32,7 @@ The result is a workflow that can explain what was reviewed, who decided, and wh
 
 ## What Roundmark includes
 
-Roundmark provides a client-side workflow and the source needed to own it in your product:
+Roundmark provides a client-side workflow and the source code needed to integrate and control it inside your product:
 
 - React review workspace and approval/review components
 - Workflow/domain model and lifecycle transitions
@@ -144,7 +144,7 @@ Roundmark does not provide:
 - SaaS hosting
 - Customer accounts
 
-It is source code that you copy into and own within your application.
+It is licensed source code that you integrate and modify within your application.
 
 ## Build it yourself vs start with Roundmark
 
